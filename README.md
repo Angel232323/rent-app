@@ -1,5 +1,10 @@
 # rent-app
 
+Este Es el Frontend de una App de rentas de apartamentos, tipo airbnb.
+this is the frontend of that an app of rent that apartments like airbnd. En Vue
+
+For install, go the next specifications:
+
 ## Project setup
 ```
 npm install
